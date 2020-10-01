@@ -1,8 +1,8 @@
-Bioinformatics with Python Cookbook
+Bioinformatics with Python Cookbook 
 ===================================
 
 
-This is the github repository with code samples for
+This is the github repository with code samples for Python:
 `Bioinformatics with Python Cookbook`_
 
 
